@@ -11,13 +11,7 @@
 
 <p align="center">🎵 Lightweight, elegant music player that enhances your offline music experience. Supports Android 9 and later.</p>
 
-<p align="center">
-    <a href="https://github.com/zyrouge/symphony/releases/latest">Download (latest)</a> |
-    <a href="https://github.com/zyrouge/symphony/releases">View all releases</a> |
-    <a href="https://apt.izzysoft.de/fdroid/index/apk/io.github.zyrouge.symphony">IzzyOnDroid</a> |
-    <a href="https://f-droid.org/en/packages/io.github.zyrouge.symphony/">F-Droid</a> |
-    <a href="https://play.google.com/store/apps/details?id=io.github.zyrouge.symphony">Play Store</a>
-</p>
+
 
 <p align="center">
     <a href=""><img src="https://img.shields.io/badge/stage-partially%20stable-545DFF"></a>
